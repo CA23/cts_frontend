@@ -8,9 +8,11 @@ Similary, if members "Jane Smith", "Alice Smith" and "John Smith" and multiple o
 
 This time span can then be utilised to schedule a periodic status meeting or to ensure maximum productivity and communication.
 
+scripts.js is now setup to take JSON data from the live Django REST API instead of a local server. So downloading the repository and opening index.html should bring up a working web page as intended. (as long as all 3 files are in the same location)
+
 For the Django models and the REST API that serves as backend, please see:
 
-github.com/CA23
+github.com/CA23 
 
 Brief description for collaboration tool:
 
